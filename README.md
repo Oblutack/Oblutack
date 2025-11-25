@@ -1,14 +1,5 @@
-
-
-
-
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oblutack&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oblutack&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -16,7 +7,6 @@
 </p>
 
 ---
-
 
 <div align="center">
 
@@ -52,5 +42,3 @@
 </p>
 
 </div>
-
-
