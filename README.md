@@ -18,7 +18,7 @@
 <div>
   <h3>Languages & Technologies</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,go,ts,js,nextjs,react,postgres,docker,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,go,dotnet,ts,js,nextjs,react,postgres,docker,kotlin,&theme=dark" />
   </a>
   <br/>
   <p>
